@@ -1,0 +1,16 @@
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+
+# Data files (sensitive)
+data/*.csv
+data/*.json
+*.env
+
+# PDF source reports
+reports/
+*.pdf
